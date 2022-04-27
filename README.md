@@ -7,8 +7,6 @@ Y: ma trận kết quả thu được, mỗi hàng là 1 giá trị thu được
 
 W: nghiệm bài toán
 
-nghiệm bài toán:
-	W = pinv(A) * B
-	
-	A = X.T * X
-	B = X.T * Y
+W = pinv(A) * B
+A = X.T * X
+B = X.T * Y
